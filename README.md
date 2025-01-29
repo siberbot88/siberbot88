@@ -15,7 +15,7 @@
 
 ## 📫 How to Reach Me  
 📧 Email: mohammadbayu054@outlook.com  
-💼 LinkedIn: linkedin.com/in/Mohammad-Bayu-Rizki  
+💼 LinkedIn: https://www.linkedin.com/in/mohammad-bayu-rizki-5a728328b
 🐦 Twitter:  
 
 ## ⚡ Fun Fact  
