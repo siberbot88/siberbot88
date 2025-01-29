@@ -16,7 +16,7 @@
 ## 📫 How to Reach Me  
 📧 Email: mohammadbayu054@outlook.com  
 💼 LinkedIn: https://www.linkedin.com/in/mohammad-bayu-rizki-5a728328b
-🐦 Twitter:  
+🐦 Twitter: https://x.com/FreddyMarc0
 
 ## ⚡ Fun Fact  
 🔥 I love solving algorithmic challenges and optimizing complex logic!  
