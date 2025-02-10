@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m @siberbot88  
-🔹 Passionate about **Machine Learning, Data Engineering, and Cyber Defense**  
+🔹 Passionate about **Machine Learning, Data Engineering, AI Engineering, and Cyber Defense**  
 🔹 Currently working on **UNITUNES (Music Management App) and Machine Learning Model**  
-🔹 Exploring **Python, Java, and Algorithm Optimization**  
+🔹 Exploring **Python, Java, C++, and Algorithm Optimization**  
 
 ## 🌱 Currently Learning  
 📌 **Machine Learning & any Models**  
