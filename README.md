@@ -6,7 +6,7 @@ I am passionate about exploring both **frontend** and **backend** technologies, 
 ---
 
 ## Skills & Interests
-- **Frontend Development**: HTML, CSS, JavaScript, React  
+- **Frontend Development**: Next.js, Livewire, Vue.js, React  
 - **Backend Development**: PHP, Laravel, Node.js  
 - **Database Management**: MySQL, PostgreSQL  
 - **Other Tools**: Git, GitHub, REST API Development  
