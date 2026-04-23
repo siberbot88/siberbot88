@@ -3,6 +3,7 @@
 I am **Mohammad Bayu Rizki (@siberbot88)**, a **Junior Fullstack Web Developer** with a strong interest in building scalable and user-friendly web applications.  
 I am passionate about exploring both **frontend** and **backend** technologies, and continuously improving my skills through practical projects and collaboration.  
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ---
 
 ## Skills & Interests
